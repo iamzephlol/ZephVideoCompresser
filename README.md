@@ -67,4 +67,4 @@ Compression uses `AVAssetReader` + `AVAssetWriter`:
 - Notarization is out of scope (ad-hoc signed only).
 - Ships with the default app icon; drop a `ZephVideoCompresser.icns` into
   `ZephVideoCompresser.app/Contents/Resources/` to customize.
-The Name is Intentional LoL
+
