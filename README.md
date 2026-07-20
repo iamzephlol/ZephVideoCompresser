@@ -1,8 +1,8 @@
-# ZephVideoCompresser `The Name is Intentional LoL`
+# ZephVideoCompresser 
 
 A native macOS app that compresses videos locally using **AVFoundation** — no
 ffmpeg, no uploads, no accounts. Pick a video, choose a resolution / codec /
-optional size cap, and save the compressed file.
+optional size cap, and save the compressed file. `The Name is Intentional LoL`
 
 ## Features
 - Drag-and-drop or file picker to load any video AVFoundation can open (`.mp4`, `.mov`, `.m4v`, …).
