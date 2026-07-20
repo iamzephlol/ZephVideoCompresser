@@ -1,4 +1,4 @@
-# ZephVideoCompresser 
+# ZephVideoCompresser WIP
 
 A native macOS app that compresses videos locally using **AVFoundation** — no
 ffmpeg, no uploads, no accounts. Pick a video, choose a resolution / codec /
